@@ -30,27 +30,27 @@
         "BOT_USERNAME": {
             "description": "your bot username from @BotFather",
             "required": true, 
-            "value": "Y0RBoT"
+            "value": "B0KBoT"
         },
         "BOT_NAME": {
             "description": "fill with your bot name from @BotFather",
             "required": true, 
-            "value": "مريم..🎶"
+            "value": "ريفان"
         },
         "ASSISTANT_NAME": {
             "description": "fill with the assistant username account without @",
             "required": true, 
-            "value": "FHHHF"
+            "value": "REEVAAN"
         },
         "SESSION_NAME": {
             "description": "fill with the pyrogram String Session",
             "required": true, 
-            "value": "BQCrRdr55RTIetC0-aM2sM4YJKERuLO-TcU114GJnyhDdxFe_Wo5FKSh0FtJZYtEMW4sBIPh03N9jiGU4tyWIWY80CewaQjSvqVpIcbOlgfZ5bIJZznFH7g7fxBayoJqy2dW3W1sT1x-382wFJZ6x7vvcsupU2h80F_caWPFYPf7Dk38irAx4MJpRki0Pc6zAhLsbj8Uq3J1fIwrR1eF8912u5cqMc8LmL3R4m0k9_QkhSAckIQq2RTCV-l95Q2-mmAsAy6z5zk8QOmh_UBetOj5pNlgX2ClJxie3jFRiQhJ3ZJP5dWBI-_zsRxk9DpRJKDLcFJwo2y8lJbzpavfAAAAAS0-XW8A"
+            "value": "BQCrRdr55RTIet"
         },
         "SUDO_USERS": {
             "description": "list of user ids to be added to sudo member list, or just fill with your id",
             "required": true,
-            "value": "1862112003"
+            "value": "1862112003 5143032438"
         },
         "GROUP_SUPPORT": {
             "description": "if you have group, then fill the group username here without @",
@@ -65,12 +65,12 @@
         "OWNER_NAME": {
             "description": "fill with your telegram account username without @",
             "required": true,
-            "value": "MOMMMM"
+            "value": "iGGii"
         },
         "ALIVE_NAME": {
             "description": "fill with your telegram account nickname/name",
             "required": true,
-            "value": "مريم..🎶"
+            "value": "ريفان"
         }
     },
     "addons": [],
