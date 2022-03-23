@@ -8,7 +8,7 @@ from pyrogram.errors import UserAlreadyParticipant
 
 
 @Client.on_message(
-    command(["مريم ادخلي","/userbotjoin", f"/userbotjoin@{BOT_USERNAME}"]) & ~filters.private & ~filters.bot
+    command(["ريفان ادخلي","/userbotjoin", f"/userbotjoin@{BOT_USERNAME}"]) & ~filters.private & ~filters.bot
 )
 @authorized_users_only
 @errors
